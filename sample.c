@@ -1,0 +1,11 @@
+//first program for git
+
+#include <stdio.h>
+
+int main()
+
+{
+    printf("Hello, World\n");
+
+    return 0;
+}
